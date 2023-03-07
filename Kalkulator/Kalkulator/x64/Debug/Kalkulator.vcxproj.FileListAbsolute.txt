@@ -1,0 +1,10 @@
+C:\Users\Kopyto\Pulpit\Kursy online\Cpp\Aplikacje okienkowe\Kalkulator\Kalkulator\x64\Debug\Kalkulator.vcxproj.AssemblyReference.cache
+C:\Users\Kopyto\Pulpit\Kursy online\Cpp\Aplikacje okienkowe\Kalkulator\Kalkulator\x64\Debug\Kalkulator.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Kopyto\Pulpit\Kursy online\Cpp\Aplikacje okienkowe\Kalkulator\Kalkulator\x64\Debug\Kalkulator.MyForm.resources
+C:\Users\Kopyto\Pulpit\Kursy online\Cpp\Aplikacje okienkowe\Kalkulator\Kalkulator\x64\Debug\Kalkulator.vcxproj.GenerateResource.cache
+C:\Users\Kopyto\Pulpit\Kursy online\Cpp\Aplikacje okienkowe\Kalkulator\Kalkulator\x64\Debug\Kalkulator.Pomoc.resources
+F:\PROJECTS\Strefa kursów\Cpp\Aplikacje okienkowe\Kalkulator\Kalkulator\x64\Debug\Kalkulator.vcxproj.AssemblyReference.cache
+F:\PROJECTS\Strefa kursów\Cpp\Aplikacje okienkowe\Kalkulator\Kalkulator\x64\Debug\Kalkulator.vcxproj.SuggestedBindingRedirects.cache
+F:\PROJECTS\Strefa kursów\Cpp\Aplikacje okienkowe\Kalkulator\Kalkulator\x64\Debug\Kalkulator.MyForm.resources
+F:\PROJECTS\Strefa kursów\Cpp\Aplikacje okienkowe\Kalkulator\Kalkulator\x64\Debug\Kalkulator.Pomoc.resources
+F:\PROJECTS\Strefa kursów\Cpp\Aplikacje okienkowe\Kalkulator\Kalkulator\x64\Debug\Kalkulator.vcxproj.GenerateResource.cache
